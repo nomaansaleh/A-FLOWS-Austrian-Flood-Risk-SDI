@@ -168,11 +168,39 @@ The dashboard was designed to support interactive exploration of:
 
 > **Dashboard access:** Public project link is being updated.
 
-<!-- Dashboard screenshot will be added here -->
+![A-FLOWS Dashboard Overview](assets/images/dashboard-overview.png)
+
+*Interactive A-FLOWS dashboard integrating flood hazard, social vulnerability, exposure, and accessibility indicators across Austria.*
 
 ---
 
 ## Selected Visual Results
+
+### Flood Exposure — HQ100
+
+![HQ100 Flood Exposure](assets/images/flood-exposure-hq100.png)
+
+*Spatial representation of flood exposure under the HQ100 (100-year return period) hazard scenario.*
+
+### Social Vulnerability
+
+#### Macro Social Vulnerability
+
+![Macro Social Vulnerability](assets/images/macro_social-vulnerability.PNG)
+
+*Austria-wide representation of social vulnerability patterns derived from demographic indicators.*
+
+#### Local Social Vulnerability
+
+![Local Social Vulnerability](assets/images/local_social-vulnerability.png)
+
+*Local-scale Social Vulnerability Index highlighting spatial variations that may be obscured at broader aggregation levels.*
+
+### Shelter Accessibility
+
+![Shelter Accessibility](assets/images/shelter-accessibility.png)
+
+*Spatial assessment of accessibility to emergency shelters, supporting the identification of areas facing potential evacuation and accessibility challenges.*
 
 ### Social Vulnerability
 <!-- Social vulnerability map will be added here -->
