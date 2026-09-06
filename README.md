@@ -252,9 +252,11 @@ The original project materials were developed collaboratively within the univers
 
 ## Documentation
 
-A detailed project report documenting the methodology, implementation, results, discussion, and technical architecture will be included in the `docs/` directory.
+For a detailed description of the project methodology, SDI architecture, spatial analyses, results, and discussion, see the full academic project report:
 
----
+**[View A-FLOWS Final Project Report](docs/A-FLOWS_Final_Report.pdf)**
+
+The report was prepared collaboratively by **Md Saleh Shakeel Nomaan, Denis Vasin, and Qinwei Zhu** as part of the MSc Applied Geoinformatics programme at the University of Salzburg.
 
 ## Repository Status
 
